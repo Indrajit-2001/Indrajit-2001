@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development, machine learning, and software engineering.
 - 🌱 I’m currently learning advanced machine learning, deep learning techniques, and web development frameworks.
 - 💞️ I’m looking to collaborate on innovative web development and AI projects.
-- 📫 How to reach me: myindrajitdutta.id@gmail.com
+- 📫 How to reach me: indrajit.dutta.self@gmail.com 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy mobile photography and photo editing in my free time.
 <!---
